@@ -1,6 +1,6 @@
 body {
 	background-color: #FFF;
-	font-family:'system-ui', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	color: #111111;
 	padding: 0;
@@ -2030,7 +2030,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .text-red {
-	color: #99090A;
+	color: #06569f;
 }
 
 .text-green {
@@ -16159,7 +16159,7 @@ textarea.form-control2 {
 
 .since-year span {
 	/* color: #00173c; */
-	color: black;
+	color: #838383;
 	font-size: 106px;
 	font-weight: 500;
 	font-family: 'Teko', sans-serif;
@@ -17562,7 +17562,7 @@ textarea.form-control2 {
 .long-arrow-next-prev .owl-next:focus {
 	background-color: transparent;
 	border-color: inherit;
-	color: #931a21;
+	color: #06569f;
 	opacity: 1;
 }
 

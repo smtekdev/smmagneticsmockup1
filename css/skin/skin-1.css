@@ -3,15 +3,15 @@
 =====================*/
 
 ::selection {
-	background: #931a21;
+	background: #06569f;
 }
 
 ::-moz-selection {
-	background: #931a21;
+	background: #06569f;
 }
 
 ::-webkit-selection {
-	background: #931a21;
+	background: #06569f;
 }
 
 /* Primary background color*/
@@ -76,11 +76,11 @@
 .ls-circle,
 .project-new-2 .project-new-content2 span,
 .project-new-2 .project-view .project-view-btn i {
-	background-color: #931a21;
+	background-color: #06569f;
 }
 
 .site-button {
-	background-color: #931a21 !important
+	background-color: #06569f !important
 }
 
 /*-----Secondry background colo-----*/
@@ -106,7 +106,7 @@
 .site-button:focus,
 .site-button:active,
 .nl-search-btn:hover {
-	background-color: #931a21;
+	background-color: #06569f;
 }
 
 
@@ -203,7 +203,7 @@ blockquote .fa-quote-left,
 .wt-team-2 .team-detail a:hover,
 .testimonial-11-content .testimonial-11 .testimonial-text i,
 .testimonial-11-content .testimonial-11 .testimonial-info .testimonial-position {
-	color: #931a21;
+	color: #06569f;
 }
 
 .header-style-1 .header-nav .nav li:hover.has-child.nav-active>a {
@@ -239,7 +239,7 @@ blockquote .fa-quote-left,
 .icon-circle-box .icon-circle::after,
 .client-logo2-media::before,
 .client-logo2-media::after {
-	border-color: #931a21;
+	border-color: #06569f;
 }
 
 .about-three .about-year .about-year-info {
@@ -265,11 +265,11 @@ blockquote .fa-quote-left,
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1bbce8+0,00173c+100 */
 	background: rgb(252, 93, 22);
 	/* Old browsers */
-	background: -moz-linear-gradient(left, #931a21 0%, rgba(2, 23, 60, 1) 100%);
+	background: -moz-linear-gradient(left, #06569f 0%, rgba(2, 23, 60, 1) 100%);
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(left, #931a21 0%, rgba(2, 23, 60, 1) 100%);
+	background: -webkit-linear-gradient(left, #06569f 0%, rgba(2, 23, 60, 1) 100%);
 	/* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #931a21 0%, rgba(2, 23, 60, 1) 100%);
+	background: linear-gradient(to right, #06569f 0%, rgba(2, 23, 60, 1) 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc5d16', endColorstr='#02173c', GradientType=1);
 	/* IE6-9 */
@@ -287,7 +287,7 @@ blockquote .fa-quote-left,
 
 /*REVOLUTION SLIDER ARROW BUTTON*/
 #welcome_wrapper .metis.tparrows {
-	background-color: #931a21;
+	background-color: #06569f;
 }
 
 .box-style1:after {
